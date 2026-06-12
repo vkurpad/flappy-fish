@@ -1,10 +1,18 @@
 # From Terminal to Browser: Porting a Python Game to React
 
+I think you need a hook here on why someone should keep reading past the first line. You could use some angles like, This was one of  my projects where I learnt a lot and wanted to continue to build it out. Or, I had a working game. The challenge was making it accessible in a browser without throwing away the engine I'd already built.
+
+Start with a link to the game and a GIF of gameplay. People process the details when they see the results first.
+
+**Bottom line:** Connect with the reader, make this a human story. Not a list of issues. 
+
 The project began as a Python terminal game built around ASCII rendering, keyboard input, and a simple backend for accounts and high scores. It worked well in its original environment, but I wanted to make it accessible in the browser while using the opportunity to learn React. Rather than rewriting the entire game in JavaScript, I kept the existing Python engine and focused on building a web interface that could interact with it cleanly.
 
 ![Terminal version of game](terminal.png)
 
 ---
+
+Before building the react frontend, show the arcitecture 
 
 ## Building the React frontend
 
